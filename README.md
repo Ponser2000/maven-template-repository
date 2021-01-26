@@ -11,7 +11,7 @@ Repository with preconfigured maven project with junit5 configuration on a board
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
 ## Authors
-* Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
+* Sergey Ponomarev - [Ponser2000](https://github.com/Ponser2000)
 
 ## Acknowledgments
 ...
